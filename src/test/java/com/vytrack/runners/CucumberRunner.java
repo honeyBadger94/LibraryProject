@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "timeline:target/timeline-report"
         },
         features = {
-                "src/test/resources/features/activities"
+                "src/test/resources/features/"
         },
         glue = "com/vytrack/step_definitions",
         dryRun = false,
